@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CMPT315A3/static/css/main.d676bf46.css",
+    "main.js": "/CMPT315A3/static/js/main.85996944.js",
+    "index.html": "/CMPT315A3/index.html",
+    "main.d676bf46.css.map": "/CMPT315A3/static/css/main.d676bf46.css.map",
+    "main.85996944.js.map": "/CMPT315A3/static/js/main.85996944.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d676bf46.css",
+    "static/js/main.85996944.js"
+  ]
+}
